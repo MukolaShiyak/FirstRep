@@ -1,0 +1,4 @@
+#Thu Oct 14 15:24:38 EEST 2021
+base.0=D\:\\development2\\projects\\redux_learn\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
