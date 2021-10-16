@@ -26,8 +26,9 @@ class LoadedImageAction {
   LoadedImageAction(this.widget);
 }
 
-ThunkAction calcCountThunkAction = (Store storeee) async {
-  compute(calc, 200000000).then((value) => storeee.dispatch(AddAction(value)));
+ThunkAction calcCountThunkAction = (Store storeeeee) async {
+  compute(calc, 200000000)
+      .then((value) => storeeeee.dispatch(AddAction(value)));
 };
 
 Future<int> calc(int count) async {
