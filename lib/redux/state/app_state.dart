@@ -7,3 +7,4 @@ class AppState {
 
   AppState({required this.counter, required this.text, required this.widget});
 }
+// user 1 changes
