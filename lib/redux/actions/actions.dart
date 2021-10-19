@@ -31,7 +31,7 @@ ThunkAction calcCountThunkAction = (Store storeeeee) async {
       .then((value) => storeeeee.dispatch(AddAction(value)));
 };
 // user 2 changes
-// another changes user 2
+// another changes user 2(from masteeeeeeeeeeeeer)
 
 Future<int> calc(int count) async {
   int result = 0;
